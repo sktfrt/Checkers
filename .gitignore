@@ -52,3 +52,12 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+
+*.exe
+
+
+Constants.cs
+Logic.cs
+Program.cs
+ShowMethods.cs
